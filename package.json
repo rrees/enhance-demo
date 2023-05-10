@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@enhance/cli": "^0.0.9"
+  },
+  "scripts": {
+    "start": "npx enhance dev"
+  },
+  "devDependencies": {
+    "@enhance/arc-plugin-enhance": "^5.0.8"
+  }
+}
